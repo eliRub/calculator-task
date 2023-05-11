@@ -1,0 +1,21 @@
+body{
+    background-color: #5a9188;
+}
+*{
+    text-align: center;
+}
+
+hr{
+    border-color: #1a1e21;
+}
+
+div{
+    width: 400px;
+    border: 2px solid #1a1e21;
+    padding: 30px 15px;
+    background-color: #4f5050;
+
+    position: absolute;
+    left: 30%;
+    top: 20%;
+}
